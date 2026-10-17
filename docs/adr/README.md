@@ -1,0 +1,1 @@
+Architecture Decision Records for LinkPulse. One file per decision.
